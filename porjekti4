@@ -1,0 +1,5 @@
+cout << "Sheno minutat: ";
+    cin >> minuta;
+    if(minuta < 0 || minuta > 60){
+        minuta=0;
+    }
